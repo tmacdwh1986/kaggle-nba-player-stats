@@ -5,7 +5,7 @@
 #################################################################################
 
 PROJECT_DIR := $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
-BUCKET = pmh-ds-nba-player-stats
+BUCKET = pmh-ds-kaggle-nba-player-stats
 PROFILE = kaggle-user
 PROJECT_NAME = kaggle-nba-player-stats
 PYTHON_INTERPRETER = python3
