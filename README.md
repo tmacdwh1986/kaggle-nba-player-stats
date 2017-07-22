@@ -1,10 +1,21 @@
 kaggle-nba-player-stats
 ==============================
 
-A short description of the project.
+## Dataset
+[Kaggle NBA Players stats since 1950](https://www.kaggle.com/drgilermo/nba-players-stats)
 
-Project Organization
-------------
+## Objective
+We're looking to get a feel for core problem-solving skills. The prompt is intentionally open-ended for interpretation. Based on the open nature of the prompt, this assignment could take as little as 10 minutes and on the flip side, it could merit 10's of hours. Please target to spend 2-3 hours on the assignment after loading the dataset into a notebook. To reiterate, one of the main purposes of the open prompt is to allow for creativity and interpretation - if you can defend it, there are no wrong answers. Having fun with this assignment isn't the worst thing in the world.
+
+## Prompt
+Based on the dataset, create your "best" 5 person dream team with 1 player in each of their respective positions (PG, SG, SF, PF, C). Caveat - you can only use 1 player per decade and within the past 5 decades (aka - 2010's, 2000's, 1990's, 1980's, 1970's). If a player has played at least 1 game in multiple decades, you can use them for whichever decade you prefer.
+
+Once your rockstar team is assembled, predict the number of points they will score in the upcoming season.
+
+## Evaluation
+As mentioned and with nature of the prompt, we're looking to evaluate the assignment based on 1) the ability to produce a clean problem statement/strategy, 2) creativity of strategy, 3) quality of code, 4) ability to communicate results and insights worth exploring in the future.
+
+## Project Organization
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
