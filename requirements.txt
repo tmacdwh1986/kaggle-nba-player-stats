@@ -8,3 +8,6 @@ pandas
 matplotlib
 numpy
 seaborn
+jupyter
+pyqt5
+qtconsole
