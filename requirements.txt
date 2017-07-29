@@ -11,3 +11,4 @@ seaborn
 jupyter
 pyqt5
 qtconsole
+scikit-learn
